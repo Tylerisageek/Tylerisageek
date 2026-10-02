@@ -1,6 +1,5 @@
 Hi, I’m Ty! (he/him)
 
-I am a computer science student at the University of Washington.
-I'm mostly a webdeveloper, but I dabble in a little bit of everything.
+I graduated from the University of Washington with a Bachelor's in Computer Science.
 
-I'll say more here eventually, but this is good enough for now.
+I am absolutely in love with the craft of software development, and cannot wait to continue my journey into using my skills to build a future of safe and sustainable technology.
